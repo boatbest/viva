@@ -630,7 +630,21 @@ ul li {
     margin-bottom: 20px;
     box-shadow: 0 0 7px 1px #a59c9c;
 }
+.content-footer{
+	margin-bottom: 15px;
+}
 
+#footer p{
+	color: #ffffff;
+}
+
+#footer a{
+	color: #ffffff;
+}
+
+#footer .line-footer{
+	width: 50%;
+}
 /*----------------- button ------------------*/
 .btn-ghost {
     color: #ffffff;
