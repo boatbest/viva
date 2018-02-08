@@ -591,6 +591,10 @@ ul li {
 .page-header{
 	border: unset;
 }
+
+.my-10{
+	margin: 10px 0px;
+}
 /*####################### log-in & register ###########################*/
 .register_content {
     padding: 60px 0px 60px 0px;
@@ -601,7 +605,7 @@ ul li {
     background: none repeat scroll 0 0 #FEFEFE;
     border: 1px solid #ebebeb;
     border-radius: unset;
-    box-shadow: 0 0 3px #EEEEEE;
+    box-shadow: 5px 5px 20px 6px #EEEEEE;
     color: #555555;
     padding: 40px;
 }
