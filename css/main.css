@@ -30,7 +30,7 @@
 }
 
 .index_line{
-	width: 130px;
+	width: 200px;
 }
 
 
@@ -110,8 +110,13 @@ ul li {
 	list-style: none;
 }
 .section {
-	padding: 100px 0;
+	padding: 50px 0;
 }
+
+.section-slide{
+	padding-top: 105px;
+}
+
 .no-padding {
 	padding: 0;
 }
@@ -218,7 +223,7 @@ ul li {
 	transition-property: transform;
 }
 .nav-toggle:before {
-	background-color: #e84545;
+	background-color: #e6b663;
 	-moz-transform: scale(1);
 	-ms-transform: scale(1);
 	-webkit-transform: scale(1);
@@ -229,7 +234,7 @@ ul li {
 	transition-duration: 0.3s;
 }
 .nav-toggle:after {
-	background-color: #e84545;
+	background-color: #e6b663;
 	-moz-transform: scale(0);
 	-ms-transform: scale(0);
 	-webkit-transform: scale(0);
@@ -322,7 +327,7 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .carousel {
-    width: 94%;
+    width: 100%;
     height: auto;
     margin: auto;
 }
@@ -384,7 +389,7 @@ ul li {
 .services h5 {
 	font-size: 21px;
 	font-weight: 300;
-	margin-bottom: 10%;
+	/*margin-bottom: 10%;*/
 	text-transform: none;
 }
 .services p {
@@ -394,7 +399,7 @@ ul li {
 	margin-top: 7%;
 }
 .services-content {
-	margin: 50px;
+	margin: 30px;
 }
 .services-content li a {
 	color: #6c7279;
@@ -402,6 +407,24 @@ ul li {
 }
 .services-content li a:hover {
 	color: #000;
+}
+
+.promotion{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.promotion-content {
+	margin: 30px 30px 30px 30px;
+}
+.add_line{
+	padding-top: 20px;
+	max-width: 150px;
+}
+.caption .add_line{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	max-width: 150px;
 }
 /* ------------------------------------------------------------------------------
 	 Portfolio
@@ -462,6 +485,29 @@ ul li {
 }
 #portfolio * {
 	z-index: 2;
+}
+
+.product{
+	margin-top: 30px;
+}
+
+.title-product{
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+.contact-index{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.contact-index h5{
+	font-size: 25px;
+}
+
+.select-province{
+	margin-right: auto;
+	margin-left: auto;
 }
 /* ------------------------------------------------------------------------------
 	 Testimonials
@@ -647,7 +693,7 @@ ul li {
 }
 
 #footer .line-footer{
-	width: 50%;
+	width: 40%;
 }
 /*----------------- button ------------------*/
 .btn-ghost {
@@ -710,11 +756,6 @@ ul li {
     margin-right: 30px;
 }
    
-
-   .services h5 {
-	margin-bottom: 25%;
-
-}
 }
 
 @media (max-width: 1024px) {
@@ -722,13 +763,23 @@ ul li {
 }
 
 @media (max-width: 768px) {
-   
+   #footer .line-footer{
+	width: 45%;
+	}
 }
 
 
 
 @media (max-width: 414px) {
-   
+   .promotion-content {
+		margin: 30px 0px 30px 0px;
+	}
+	.contact-index h5 {
+	    font-size: 20px;
+	}
+	#footer .line-footer{
+	width: 60%;
+	}
 }
 
 
@@ -739,6 +790,8 @@ ul li {
 
 
 @media (max-width: 320px) {
-   
+   .contact-index h5 {
+	    font-size: 16px;
+	}
 }
 

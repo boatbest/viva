@@ -21,7 +21,7 @@
     <section class="tophead" role="tophead"> 
       <!-- Navigation Section -->
     <header id="header">
-      <div class="header-content clearfix"> <a class="logo" href="#"><img class="index_logo" src="images/logo-viva.jpg" alt="logo"></a>
+      <div class="header-content clearfix"> <a class="logo" href="index.html"><img class="index_logo" src="images/logo-viva.jpg" alt="logo"></a>
         <nav class="navigation" role="navigation">
           <ul class="primary-nav">
             <li><a href="index.html">หน้าแรก</a></li>
@@ -55,7 +55,7 @@
                                     <form>
                                         <div class="header-register text-center">
                                             <h2>สมัครสมาชิก</h2>
-                                                <span>สมัครสมาชิกแล้ว? คลิก<a href="login.php">ที่นี่</a>เพื่อเข้าสู่ระบบ</span>
+                                            <br/>
                                         </div>
 
                                             <div class="col-sm-12">
@@ -118,14 +118,25 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+        <h4 class="modal-title" id="myModalLabel">เข้าสู่ระบบ</h4>
       </div>
       <div class="modal-body">
-        ...
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <form>
+              <div class="col-sm-12">
+                  <div class="form-group">
+                      <input type="email" class="form-control" name="email" placeholder="Email" >
+                  </div>
+              </div>
+              <div class="col-sm-12">
+                  <div class="form-group">
+                      <input type="password" class="form-control" name="name" placeholder="รหัสผ่าน" >
+                  </div>
+              </div>
+              <div class="center-content">
+                  <input type="submit" value="เข้าสู่ระบบ" class="btn-ghost btn-green">
+              </div>
+
+      </form>
       </div>
     </div>
   </div>
