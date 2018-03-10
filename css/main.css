@@ -759,7 +759,9 @@ ul li {
 }
 
 @media (max-width: 1024px) {
-   
+   #header{
+   	background-image: -webkit-linear-gradient(120deg, #fff 27%, #00b0ad 65%);
+   }
 }
 
 @media (max-width: 768px) {

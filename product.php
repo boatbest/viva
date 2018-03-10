@@ -18,27 +18,7 @@
   <body>
 
     <!-- Header Section -->
-    <section class="tophead" role="tophead"> 
-      <!-- Navigation Section -->
-    <header id="header">
-      <div class="header-content clearfix"> <a class="logo" href="index.html"><img class="index_logo" src="images/logo-viva.jpg" alt="logo"></a>
-        <nav class="navigation" role="navigation">
-          <ul class="primary-nav">
-            <li><a href="index.html">หน้าแรก</a></li>
-            <li><a href="authorized.html">ตัวแทน</a></li>
-            <li><a href="product.html">สินค้า</a></li>
-            <li><a href="payment.html">จ่ายเงิน</a></li>
-            <li><a href="about.html">เกี่ยวกับเรา</a></li>
-            <li><a href="contact.html">ติดต่อเรา</a></li>
-            <li><a href="howtobuy.hmtl">วิธีการซื้อสินค้า</a></li>
-            <li><a href="register.html">สมาชิก</a></li>
-          </ul>
-        </nav>
-        <a href="#" class="nav-toggle">Menu<span></span></a> 
-      </div>
-    </header>
-      <!-- Navigation Section --> 
-    </section>
+        <?php include_once('inc/header.php'); ?>
     <!-- Header Section --> 
     <section class="section" id="author">
       <div class="container">
@@ -152,75 +132,8 @@
     </section> 
 
               <!-- footer section -->
-              <footer id="footer" class="footer">
-                <div class="container">
-                  <div class="row"> 
-                    <div class="col-md-3">
-                      <div> 
-                      <div class="">
-                          <h4 style="color: #ffffff;">เกี่ยวกับเรา</h4>
-                      </div>
-                      <div class="content-footer">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sollicitudin ultrices suscipit. Sed commodo vel mauris vel dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                      </div>
-                      <div>
-                        <a class="logo" href="#"><img class="index_logo" src="images/logo-viva.jpg" alt="logo"></a>
-                      </div>
-                      
-
-                      </div>
-                    </div>
-                    <div class="col-md-3">
-                    <div class="footer-col">
-                      <h4 style="color: #ffffff;">สินค้า</h4>
-                        <p><a href="#">เกี่ยวกับเรา</a></p>
-                        <p><a href="#">ตัวแทน</a></p>
-                        <p><a href="#">วิธีการซื้อสินค้า/ชำระเงิน</a></p>
-                        <p><a href="#">ติดต่อเรา</a></p>
-                        <p><a href="#">สมาชิก</a></p>
-                    </div>
-                    </div>
-                    <div class="col-md-3">
-                      <div class="footer-col">
-                        <h4 style="color: #ffffff;">ศูนย์ช่วยเหลือ</h4>
-                          <p><a href="#">คำถามที่พบบ่อย</a></p>
-                          <p><a href="#">นโยบานความเป็นส่วนตัว</a></p>
-                          <p><a href="#">เงื่อนไขการให้บริการ</a></p>
-                          <p><a href="#">วิธีการใช้งาน</a></p>
-                          <p><a href="#">การจัดส่งสินค้า</a></p>
-                      </div>
-                    </div>
-                    <div class="col-md-3">
-                      <div class="footer-col">
-                        <h4 style="color: #ffffff;">สนใจสินค้า</h4>
-                        <p ><i class="fa fa-phone" aria-hidden="true"></i> ติดต่อ : 02-736-1170 </p>
-                        <p ><i class="fa fa-phone" aria-hidden="true"></i> Email : contact </p>
-                        <div class="line-footer">
-                          <img src="images/qr.png" alt="line" class="img-responsive">
-                        </div>
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                  <hr >
-                    <div class="row">
-                      <div class="col-md-12 text-center">
-                        <p>Copyright © 2018   www.medicavivathailand.com   All rights reserved.</p>
-                      </div>
-                    </div> 
-                  </div>
-                </footer>
-                <!-- footer section --> 
-
-    <!-- JS FILES --> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
-    <script src="js/bootstrap.min.js"></script> 
-    <script src="js/jquery.flexslider-min.js"></script> 
-    <script src="js/retina.min.js"></script> 
-    <script src="js/modernizr.js"></script> 
-    <script src="js/main.js"></script>
+        <?php include_once('inc/footer.php'); ?>
+        <?php include_once('inc/footer-script.php');?>
+        
   </body>
 </html>
