@@ -2,7 +2,7 @@
   <section class="tophead" role="tophead"> 
     <!-- Navigation Section -->
     <header id="header">
-      <div class="header-content clearfix"> <a class="logo" href="index.html"><img class="index_logo" src="images/logo-viva.jpg" alt="logo"></a>
+      <div class="header-content clearfix"> <a class="logo" href="index.html"><img class="index_logo" src="images/logo-viva.png" alt="logo"></a>
         <nav class="navigation" role="navigation">
           <ul class="primary-nav">
             <li><a href="#">หน้าแรก</a></li>
