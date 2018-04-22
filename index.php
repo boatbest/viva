@@ -82,6 +82,8 @@
                 </div>
                 <div class="title-product center-content">
                   <h5>สินค้าชิ้นที่ 1</h5>
+                    <label class="price-sale" style="display: block;">1,200 บาท</label>
+                    <label class="price">1,499 บาท</label>
                 </div>
                 <div class="center-content">
                   <a href="#" class="btn-ghost btn-green">สั่งซื้อสินค้า</a>
@@ -93,6 +95,8 @@
                 </div>
                 <div class="title-product center-content">
                   <h5>สินค้าชิ้นที่ 1</h5>
+                    <label class="price-sale" style="display: block;">1,200 บาท</label>
+                    <label class="price">1,499 บาท</label>
                 </div>
                 <div class="center-content">
                   <a href="#" class="btn-ghost btn-green">สั่งซื้อสินค้า</a>
@@ -104,6 +108,8 @@
                 </div>
                 <div class="title-product center-content">
                   <h5>สินค้าชิ้นที่ 1</h5>
+                    <label class="price-sale" style="display: block;">1,200 บาท</label>
+                    <label class="price">1,499 บาท</label>
                 </div>
                 <div class="center-content">
                   <a href="#" class="btn-ghost btn-green">สั่งซื้อสินค้า</a>
@@ -115,6 +121,8 @@
                 </div>
                 <div class="title-product center-content">
                   <h5>สินค้าชิ้นที่ 1</h5>
+                    <label class="price-sale" style="display: block;">1,200 บาท</label>
+                    <label class="price">1,499 บาท</label>
                 </div>
                 <div class="center-content">
                   <a href="#" class="btn-ghost btn-green">สั่งซื้อสินค้า</a>
@@ -126,6 +134,8 @@
                 </div>
                 <div class="title-product center-content">
                   <h5>สินค้าชิ้นที่ 1</h5>
+                    <label class="price-sale" style="display: block;">1,200 บาท</label>
+                    <label class="price">1,499 บาท</label>
                 </div>
                 <div class="center-content">
                   <a href="#" class="btn-ghost btn-green">สั่งซื้อสินค้า</a>
@@ -137,6 +147,8 @@
                 </div>
                 <div class="title-product center-content">
                   <h5>สินค้าชิ้นที่ 1</h5>
+                    <label class="price-sale" style="display: block;">1,200 บาท</label>
+                    <label class="price">1,499 บาท</label>
                 </div>
                 <div class="center-content">
                   <a href="#" class="btn-ghost btn-green">สั่งซื้อสินค้า</a>

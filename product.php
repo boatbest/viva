@@ -33,6 +33,8 @@
                 <img src="images/pd1.jpg" alt="...">
                 <div class="caption">
                   <h4>สินค้า 1</h4>
+                  <label class="price-sale" style="display: block;">1,200 บาท</label>
+                  <label class="price">1,499 บาท</label>
                   <p>เลือกสินค้าที่ต้องการ เลือกสินค้าที่ต้องการ</p>
                   <p></p>
                 </div>
@@ -47,6 +49,8 @@
                 <img src="images/pd2.jpg" alt="...">
                 <div class="caption">
                   <h4>สินค้า 2</h4>
+                  <label class="price-sale" style="display: block;">1,200 บาท</label>
+                  <label class="price">1,499 บาท</label>
                   <p>กดยืนยันการสั่งซื้อ กดยืนยันการสั่งซื้อ</p>
                 </div>
                 <button class="btn-ghost btn-green"> สั่งซื้อ </button>
@@ -58,6 +62,8 @@
                 <img src="images/pd3.jpg" alt="...">
                 <div class="caption">
                   <h4>สินค้า 3</h4>
+                  <label class="price-sale" style="display: block;">1,200 บาท</label>
+                  <label class="price">1,499 บาท</label>
                   <p>ชำระเงินได้หลากหลายช่องทาง</p>
                   <p></p>
                 </div>
@@ -70,6 +76,8 @@
                 <img src="images/pd4.jpg" alt="...">
                 <div class="caption">
                   <h4>สินค้า 4</h4>
+                  <label class="price-sale" style="display: block;">1,200 บาท</label>
+                  <label class="price">1,499 บาท</label>
                   <p>สินค้าส่งตรงถึงบ้านคุณ</p>
                   <p></p>
                 </div>
@@ -83,6 +91,8 @@
                 <img src="images/pd1.jpg" alt="...">
                 <div class="caption">
                   <h4>สินค้า 5</h4>
+                  <label class="price-sale" style="display: block;">1,200 บาท</label>
+                  <label class="price">1,499 บาท</label>
                   <p>กดยืนยันการสั่งซื้อ กดยืนยันการสั่งซื้อ</p>
                   <p></p>
                 </div>
@@ -95,6 +105,8 @@
                 <img src="images/pd4.jpg" alt="...">
                 <div class="caption">
                   <h4>สินค้า 6</h4>
+                  <label class="price-sale" style="display: block;">1,200 บาท</label>
+                  <label class="price">1,499 บาท</label>
                   <p>ชำระเงินได้หลากหลายช่องทาง</p>
                   <p></p>
                 </div>
@@ -107,6 +119,8 @@
                 <img src="images/pd4.jpg" alt="...">
                   <div class="caption">
                     <h4>สินค้า 7</h4>
+                    <label class="price-sale" style="display: block;">1,200 บาท</label>
+                    <label class="price">1,499 บาท</label>
                     <p>สินค้าส่งตรงถึงบ้านคุณ</p>
                     <p></p>
                   </div>
@@ -119,6 +133,8 @@
                 <img src="images/pd4.jpg" alt="...">
                 <div class="caption">
                   <h4>สินค้า 4</h4>
+                  <label class="price-sale" style="display: block;">1,200 บาท</label>
+                  <label class="price">1,499 บาท</label>
                   <p>สินค้าส่งตรงถึงบ้านคุณ</p>
                   <p></p>
                 </div>

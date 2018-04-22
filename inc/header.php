@@ -13,6 +13,12 @@
             <li><a href="#">ติดต่อเรา</a></li>
             <li><a href="#">วิธีการซื้อสินค้า</a></li>
             <li><a href="#">สมาชิก</a></li>
+            <li class="add-cart">
+              <a href="#">
+                <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+              </a>
+              <span>2</span>
+            </li>
           </ul>
         </nav>
         <a href="#" class="nav-toggle">Menu<span></span></a> 

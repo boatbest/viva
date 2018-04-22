@@ -21,8 +21,7 @@
     <!-- Header Section --> 
     <section class="section">
       <div class="container">
-
-        <div class="row" style="margin-bottom: 30px;">
+        <div class="row" style="margin: 30px 0px;">
           <div class="col-md-6">
             <div class="img-responsive">
               <img src="images/pd1.jpg" >
@@ -39,6 +38,8 @@
                   ทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายละเอียดสินค้าทดสอบรายล
                 </p>
                 <h5>สินค้าคงคลัง 9 ชิ้น </h5>
+                <label class="price-sale">1,200 บาท</label>
+                <label class="price">1,499 บาท</label>
               </div>
             </div>
             <div class="col-md-12">
@@ -66,8 +67,12 @@
 
             <!-- Tab panes -->
             <div class="tab-content">
-                <div role="tabpanel" class="tab-pane active" id="details">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
-                <div role="tabpanel" class="tab-pane" id="quantity">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
+                <div role="tabpanel" class="tab-pane active" id="details">
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                </div>
+                <div role="tabpanel" class="tab-pane" id="quantity">
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                </div>
 
             </div>
           </div>

@@ -111,6 +111,7 @@ ul li {
 }
 .section {
 	padding: 50px 0;
+	padding-top: 105px;
 }
 
 .section-slide{
@@ -488,9 +489,6 @@ ul li {
 	z-index: 2;
 }
 
-.product{
-	margin-top: 30px;
-}
 
 .title-product{
 	margin-top: 30px;
@@ -590,8 +588,23 @@ ul li {
 	margin: 0 2px;
 }
 /* ------------------------------------------------------------------------------
-	 Work Detial 
+	 Product Detial 
 -------------------------------------------------------------------------------*/
+.product{
+	margin-top: 30px;
+}
+
+.price{
+	text-decoration: line-through;
+	color: #ccc;
+	font-weight: 500;
+}
+
+.price-sale{
+	font-size: 20px;
+	color: #f1a624;
+	margin-right: 5px
+}
 
 .work-detail {
 	width: 94%;
@@ -629,6 +642,23 @@ ul li {
 .bg_navbar {
     padding-top: 85px;
     background-color: #fff;
+}
+.add-cart{
+	position: relative;
+}
+
+ul li span{
+	position: absolute;
+    right: -15px;
+    top: -10px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 19px;
+    border-radius: 10px;
+    color: #ffffff;
+    background-color: #5eb22d;
 }
 
 .center-content {
